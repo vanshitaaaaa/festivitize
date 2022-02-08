@@ -1,0 +1,172 @@
+html{
+    scroll-behavior: smooth;
+}
+*{
+    background-color:whitesmoke;
+}
+#nbar{
+    background-color: rgb(204 16 122);
+    border-radius: 10px;
+    height: 200px;
+}
+#logo{
+    overflow: auto;
+    margin: 30px 30px 15px 30px;
+    background-color: rgb(204 16 122);
+}
+#logo img {
+    height: 96px;
+    width: 134px;
+    padding-top: 13px;
+    background-color: rgb(204 16 122);
+}
+#nbar ul{
+    overflow:auto;
+    margin-left:-38px;
+}
+#nbar li a{
+    padding:3px 3px;
+    text-decoration: none;
+    color: rgb(192, 32, 86);
+}
+#nbar li{
+    float:left;
+    list-style:none;
+    margin:13px 20px;
+     padding:3px 3px;
+    text-decoration: none;
+    color: rgb(192, 32, 86);
+}
+#nbar li a:hover{
+    color:rgb(187, 124, 223);
+}
+#home{
+    font-family: 'Festive', cursive,'Comforter','Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    font-size: 50px;
+    color: rgb(192, 32, 86);
+    border:30px rgb(204 16 122) solid;
+    padding:30 px;
+    margin-top: 30px;
+    background-image: url('https://i.pinimg.com/originals/6a/78/c5/6a78c5a1cd261258eb570456a867eca8.jpg');
+}
+.heads{
+    font-family: 'Festive', cursive,'Comforter','Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(192, 32, 86);
+    font-size: 60px;
+    text-align: center;
+    text-decoration: underline;
+}
+.ser1{
+    overflow: auto;
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjSTO7ydepssU-XDNmze0meTfmOqYoC8-JEQ&usqp=CAU');
+}
+.ser2{
+    overflow: auto;
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjSTO7ydepssU-XDNmze0meTfmOqYoC8-JEQ&usqp=CAU');
+}
+.ser3{
+    overflow: auto;
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjSTO7ydepssU-XDNmze0meTfmOqYoC8-JEQ&usqp=CAU');
+}
+.ser1 p{
+    float: left;
+    font-family: 'Festive', cursive,'Comforter','Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(192, 32, 86);
+    font-size: 60px;
+    text-align: center;
+    border: 10px rgb(192, 32, 86) solid;
+    padding: 10px;
+    margin: 39px 10px 10px 67px;
+    background-color: rgb(236, 187, 212);
+    border-radius:10px;
+}
+.ser1 img{
+    float: right;
+    padding: 10px;
+    margin: -4px 150px 10px 10px;
+    width: 288px;
+    height: 258px;
+}
+.ser2 p{
+    float: right;
+    font-family: 'Festive', cursive,'Comforter','Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(192, 32, 86);
+    font-size: 60px;
+    text-align: center;
+    border: 10px rgb(192, 32, 86) solid;
+    padding: 10px;
+    margin: 73px 91px 10px 67px;
+    background-color: rgb(236, 187, 212);
+    border-radius: 10px;
+}
+.ser2 img{
+    float: left;
+    padding: 10px;
+    margin: -4px 150px 10px 140px;
+    width: 288px;
+    height: 258px;
+}
+.ser3 p{
+    float: left;
+    font-family: 'Festive', cursive,'Comforter','Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(192, 32, 86);
+    font-size: 60px;
+    text-align: center;
+    border: 10px rgb(192, 32, 86) solid;
+    padding: 10px 61px 10px 63px;
+    margin: 50px 10px 10px 67px;
+    background-color: rgb(236, 187, 212);
+    border-radius: 10px;
+}
+.ser3 img{
+    float: right;
+    padding: 10px;
+    margin: -4px 150px 10px 10px;
+    width: 341px;
+    height: 258px;
+}
+.ser4{
+    font-family: 'Festive', cursive,'Comforter','Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(192, 32, 86);
+    font-size: 60px;
+    padding-bottom: 25px;
+    padding-left: 68px;
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjSTO7ydepssU-XDNmze0meTfmOqYoC8-JEQ&usqp=CAU');
+}
+#services{
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjSTO7ydepssU-XDNmze0meTfmOqYoC8-JEQ&usqp=CAU');
+    border:3px rgb(204 16 122) solid;
+    margin-top: 10px;
+}
+#contact{
+    background-color: rgb(248, 158, 203);
+    border:3px rgb(204 16 122) solid;
+    margin-top: 10px;
+}
+#cont{
+    border:3px rgb(204 16 122) solid;
+    border-radius:10px;
+    text-align: center;
+    margin:10px 325px 10px 325px;
+    padding:10px 10px 10px 10px;
+    font-family: cursive;
+    color: rgb(192, 32, 86);
+    background-image: url('https://media.istockphoto.com/photos/beautiful-white-and-pink-roses-background-rose-wall-artificial-roses-picture-id1149216953');
+}
+#cont form{
+    background-image: url('https://media.istockphoto.com/photos/beautiful-white-and-pink-roses-background-rose-wall-artificial-roses-picture-id1149216953');
+    font-family: cursive;
+    color: rgb(192, 32, 86);
+}
+#cont input{
+    border:3px rgb(204 16 122) solid;
+}
+#cont textarea{
+    border:3px rgb(204 16 122) solid;
+}
+#cont span{
+    border:1px rgb(204 16 122) solid;
+    padding-left: 5px;
+    padding-right: 5px;
+}
